@@ -1,2 +1,3 @@
-# Bubblesort
+# Bubblesort # merge sort
+
 Bubblesort
